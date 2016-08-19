@@ -8,7 +8,7 @@ Usage:
 from setuptools import setup
 
 APP = ['RandomNumberGenerator.py']
-DATA_FILES = ['weisser_logo.png']
+DATA_FILES = []
 OPTIONS = {
 	'argv_emulation': True,
 	'iconfile': 'hashtag.icns'
